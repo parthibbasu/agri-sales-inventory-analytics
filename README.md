@@ -62,8 +62,6 @@ agri_sales_analytics_project/
 - Use monthly sales trends to improve procurement planning.
 - Track mismatch rate as an operations KPI.
 
-## Resume Bullet
-Built an end-to-end agri-retail sales and inventory analytics project using SQL and Python, identifying stockout risks, revenue trends, and category-level performance insights to improve inventory planning and operational decision-making.
 
 ## Author
 Parthib Basu
