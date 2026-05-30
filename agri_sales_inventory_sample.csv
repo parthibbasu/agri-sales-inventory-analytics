@@ -1,0 +1,13 @@
+order_id,date,state,district,category,product,units_sold,unit_price,cost_per_unit,inventory_units,order_mismatch
+1001,2025-01-05,West Bengal,Nadia,Seeds,Paddy Seed,120,85,58,300,0
+1002,2025-01-08,West Bengal,Hooghly,Fertilizer,NPK 10:26:26,80,1450,1180,90,1
+1003,2025-01-12,West Bengal,Burdwan,Pesticide,Neem Oil,45,320,210,200,0
+1004,2025-02-02,Bihar,Patna,Seeds,Maize Seed,150,110,72,220,0
+1005,2025-02-09,Bihar,Gaya,Fertilizer,Urea,200,280,215,80,1
+1006,2025-02-15,Odisha,Cuttack,Pesticide,Fungicide,60,540,390,140,0
+1007,2025-03-01,West Bengal,Nadia,Fertilizer,DAP,95,1350,1080,70,1
+1008,2025-03-11,Odisha,Puri,Seeds,Vegetable Seed,75,240,150,160,0
+1009,2025-03-18,Bihar,Patna,Pesticide,Insecticide,55,460,310,95,0
+1010,2025-04-04,West Bengal,Burdwan,Seeds,Mustard Seed,130,95,61,260,0
+1011,2025-04-16,Odisha,Cuttack,Fertilizer,NPK 20:20:0,110,1250,970,85,1
+1012,2025-04-22,Bihar,Gaya,Seeds,Paddy Seed,140,88,60,170,0
